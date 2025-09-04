@@ -3,18 +3,18 @@
     "id": 1,
     "name": "T-shirt",
     "price": 199,
-    "image": "img/tshirt.jpg"
+    "image": "https://se.looptackle.com/wp-content/uploads/sites/7/s3eucentral1://looptackle-com.prod.sto1/uploads/2023/07/04141131/LOOP-Tshirts-Black-Text.png"
   },
   {
     "id": 2,
     "name": "Jeans",
     "price": 499,
-    "image": "img/jeans.jpg"
+    "image": "https://www.jlindeberg.com/cdn/shop/files/444ae202c53f57785e8219047214d410_003.jpg?v=1750151439&width=720"
   },
   {
     "id": 3,
     "name": "Skor",
     "price": 799,
-    "image": "img/skor.jpg"
+    "image": "https://scandinavianoutdoor.imgix.net/dynamic/productimages/sizes/full/35708ad6-fe2e-475b-985e-ff9bcccc5c7a.jpeg?w=960&h=960&fit=max&trim=auto&blend-mode=multiply&blend=efefef&auto=format,compress"
   }
 ]
